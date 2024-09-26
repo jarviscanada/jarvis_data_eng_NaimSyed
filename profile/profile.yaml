@@ -79,22 +79,22 @@ highlighted_projects:
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
-  - title: "Software Developer"
+  - title: "Business Systems Analyst"
     company: "Jarvis"
-    duration: "2020-present"
+    duration: "September 2024 - present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
-  - title: "Tutor"
-    company: "XYZ Company"
-    duration: "2019"
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+    description: "Worked on various projects using relevant technologies such as Linux/Bash, SQL, Java, Data Analytics with Python, and Docker. Collaborated with team using Agile project management methodologies to achieve project goals."
+  - title: "Analyst, Payroll and Benefits Operations"
+    company: "CPP Investments"
+    duration: "July 2021 - June 2023"
+    description: "Collaborated with cross-functional departments to lead Workday system enhancement projects including vendor system integrations, implementing self-service benefit administration, automated benefit allowance notifications, and expense report data integrity controls. Contributed to policy development by analyzing pension and benefit data and effectively communicating recommendations to stakeholders."
 
 #List of edcuation
 education: 
-  - school_name: "XYZ university"
-    duration: "2012-2016"
-    degree: "Bachelor of Applied Sciences"
-    department: "Electrical and Computer Engineering"
+  - school_name: "Toronto Metropolitan University"
+    duration: "2015 - 2020"
+    degree: "Bachelor of Commerce - Accounting Major"
+    department: "Ted Rogers School of Management"
     # optional
     awards_achievements: 
       - "Scholarship"
@@ -112,7 +112,7 @@ others:
   - title: "Certificates"
     #list of items
     bullets:
-      - "Udacity Machine Learning (2019)"
+      - "Lighthouse Labs Diploma in Data Science (2024)"
   - title: "Awards"
     bullets:
       - "Winner"

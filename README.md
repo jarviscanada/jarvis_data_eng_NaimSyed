@@ -42,13 +42,13 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](http
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Business Systems Analyst, Jarvis (September 2024 - present)**: Worked on various projects using relevant technologies such as Linux/Bash, SQL, Java, Data Analytics with Python, and Docker. Collaborated with team using Agile project management methodologies to achieve project goals.
 
-**Tutor, XYZ Company (2019)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Analyst, Payroll and Benefits Operations, CPP Investments (July 2021 - June 2023)**: Collaborated with cross-functional departments to lead Workday system enhancement projects including vendor system integrations, implementing self-service benefit administration, automated benefit allowance notifications, and expense report data integrity controls. Contributed to policy development by analyzing pension and benefit data and effectively communicating recommendations to stakeholders.
 
 
 ## Education
-**XYZ university (2012-2016)**, Bachelor of Applied Sciences, Electrical and Computer Engineering
+**Toronto Metropolitan University (2015 - 2020)**, Bachelor of Commerce - Accounting Major, Ted Rogers School of Management
 - Scholarship
 - Dean's List (2015, 2016): Ut enim ad minim veniam
 - GPA: 3.8/4.0
@@ -57,7 +57,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](http
 
 
 ## Miscellaneous
-- Udacity Machine Learning (2019)
+- Lighthouse Labs Diploma in Data Science (2024)
 - Winner
 - Basketball player
 - Competitive gaming

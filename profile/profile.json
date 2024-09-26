@@ -6,10 +6,10 @@
         "Dean's List (2015, 2016): Ut enim ad minim veniam",
         "GPA: 3.8/4.0"
       ],
-      "degree": "Bachelor of Applied Sciences",
-      "department": "Electrical and Computer Engineering",
-      "duration": "2012-2016",
-      "school_name": "XYZ university"
+      "degree": "Bachelor of Commerce - Accounting Major",
+      "department": "Ted Rogers School of Management",
+      "duration": "2015 - 2020",
+      "school_name": "Toronto Metropolitan University"
     },
     {
       "awards_achievements": null,
@@ -75,7 +75,7 @@
   "others": [
     {
       "bullets": [
-        "Udacity Machine Learning (2019)"
+        "Lighthouse Labs Diploma in Data Science (2024)"
       ],
       "title": "Certificates"
     },
@@ -97,15 +97,15 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2020-present",
-      "title": "Software Developer"
+      "description": "Worked on various projects using relevant technologies such as Linux/Bash, SQL, Java, Data Analytics with Python, and Docker. Collaborated with team using Agile project management methodologies to achieve project goals.",
+      "duration": "September 2024 - present",
+      "title": "Business Systems Analyst"
     },
     {
-      "company": "XYZ Company",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2019",
-      "title": "Tutor"
+      "company": "CPP Investments",
+      "description": "Collaborated with cross-functional departments to lead Workday system enhancement projects including vendor system integrations, implementing self-service benefit administration, automated benefit allowance notifications, and expense report data integrity controls. Contributed to policy development by analyzing pension and benefit data and effectively communicating recommendations to stakeholders.",
+      "duration": "July 2021 - June 2023",
+      "title": "Analyst, Payroll and Benefits Operations"
     }
   ],
   "skills": {
