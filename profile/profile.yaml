@@ -5,32 +5,32 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
+summary:  Hi, my name is Naim Syed. I am a Business Systems Analyst at Jarvis Consulting with a strong interest in data analytics and automation. I have a bachelor's in accounting from Toronto Metropolitan University and a diploma in Data Science from Lighthouse Labs. I have four years of experience working in the pension and benefits industry. Over my professional career, I have led projects to automate business processes by integrating ERP systems and building custom RPA solutions. I also enjoyed analyzing financial data to support decision making in policy development. During my personal time, I enjoy playing recreational sports and captaining a Sunday league basketball team. 
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
   # At least 5 skills
   proficient:
-    - Java
+    - Python
     - Linux/Bash
     - RDBMS/SQL
+    - Workday/ERP's
     - Agile/Scrum
-    - Git
   # At least 5 skills
   competent:
-    - Donec
-    - fermentum
-    - Donec
-    - fermentum
-    - Donec
+    - Git
+    - Project Management
+    - Financial Analysis
+    - Docker
+    - PowerBI/Tableau
   # At least 5 skills
   familiar:
-    - Donec
-    - fermentum
-    - fermentum
-    - fermentum
-    - fermentum
+    - Java
+    - HTML/CSS
+    - Google Cloud Platform
+    - Jira
+    - Machine Learning
 
 # List of Jarvis projects
 jarvis_projects:
