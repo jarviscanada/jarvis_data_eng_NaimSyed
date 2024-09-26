@@ -15,7 +15,7 @@ Hi, my name is Naim Syed. I am a Business Systems Analyst at Jarvis Consulting w
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](https://github.com/jarviscanada/jarvis_data_eng_demo)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]: Developed a monitoring agent that retrieves hardware specifications and usage data for Linux machines to support resource planning. Collected data using Linux Shell scripts utilizing regex and bash commands to filter and parse through results. Stored data by leveraging a PostgreSQL database in a docker container. Automated scripts using crontab commands to provide real-time data.
 
 **Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/core_java)]:
       
@@ -35,9 +35,9 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](http
 
 
 ## Highlighted Projects
-**Web app for resturant** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**UIPath Invoice Processor**: Developed a custom RPA solution using UIPath to automatically generate cost centre breakdowns to allocate employee benefit expens invoices. Collaborated with cross-functional teams using agile project management to effectively manage timelines across planinng, development, and testing phases. The final product helped result in a reduction in manual administration time by 70%.
 
-**Machine Learning**: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**TMU Group RRSP Restructuring Project**: Led a project to improve employee participation in the Group RRSP valued at >$17 million. I analyzed data on 50+ funds offered by TMU and established a risk profile based on the employee demographics and relevant contribution trends. I then finalized 20 top performing funds to recommend and presented my findings to key stakeholders with positive reception and moved forward with implementation.
 
 
 ## Professional Experiences
