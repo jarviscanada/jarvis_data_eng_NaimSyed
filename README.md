@@ -33,11 +33,6 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](http
 
 ## Education
 **Toronto Metropolitan University (2015 - 2020)**, Bachelor of Commerce - Accounting Major, Ted Rogers School of Management
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
-
-**XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
 
 
 ## Miscellaneous
