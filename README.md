@@ -1,6 +1,6 @@
 # Naim Syed . Jarvis Consulting
 
-Hi, my name is Naim Syed. I am a Business Systems Analyst at Jarvis Consulting with a strong interest in data analytics and automation. I have a bachelor's in accounting from Toronto Metropolitan University and a diploma in Data Science from Lighthouse Labs. I have four years of experience working in the pension and benefits industry. Over my professional career, I have led projects to automate business processes by integrating ERP systems and building custom RPA solutions. I also enjoyed analyzing financial data to support decision making in policy development. During my personal time, I enjoy playing recreational sports and captaining a Sunday league basketball team.
+Hi, my name is Naim Syed. I am a Business Systems Analyst at Jarvis Consulting with a strong interest in data analytics and automation. I have a bachelor's in accounting from Toronto Metropolitan University and a diploma in Data Science from Lighthouse Labs. I have four years of experience working in the pension and benefits industry. Over my professional career, I have led projects to automate business processes by integrating ERP systems and building custom RPA solutions. I also enjoyed analyzing financial data to support decision-making in policy development. During my free time, I enjoy playing recreational sports and captaining a Sunday league basketball team.
 
 ## Skills
 
@@ -19,16 +19,16 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](http
 
 
 ## Highlighted Projects
-**UIPath Invoice Processor**: Developed a custom RPA solution using UIPath to automatically generate cost centre breakdowns to allocate employee benefit expens invoices. Collaborated with cross-functional teams using agile project management to effectively manage timelines across planinng, development, and testing phases. The final product helped result in a reduction in manual administration time by 70%.
+**UIPath Invoice Processor**: Developed a custom RPA solution using UIPath to automatically generate cost center breakdowns to allocate employee benefit expense invoices. I collaborated with cross-functional teams using agile project management to manage timelines across the planning, development, and testing phases. The final product helped result in a reduction in manual administration time by 70%.
 
-**TMU Group RRSP Restructuring Project**: Led a project to improve employee participation in the Group RRSP valued at >$17 million. I analyzed data on 50+ funds offered by TMU and established a risk profile based on the employee demographics and relevant contribution trends. I then finalized 20 top performing funds to recommend and presented my findings to key stakeholders with positive reception and moved forward with implementation.
+**TMU Group RRSP Restructuring Project**: Led a project to improve employee participation in the Group RRSP valued at >$17 million. I analyzed data on 50+ funds offered by TMU and established a risk profile based on employee demographics and relevant contribution trends. I then finalized 20 top-performing funds to recommend and presented my findings to key stakeholders with a positive reception and moved forward with implementation.
 
 
 ## Professional Experiences
 
-**Business Systems Analyst, Jarvis (September 2024 - present)**: Worked on various projects using relevant technologies such as Linux/Bash, SQL, Java, Data Analytics with Python, and Docker. Collaborated with team using Agile project management methodologies to achieve project goals.
+**Business Systems Analyst, Jarvis (September 2024 - present)**: Worked on various projects using relevant technologies such as Linux/Bash, SQL, Java, Data Analytics with Python, and Docker. I collaborated with team members using Agile project management methodologies to achieve project goals.
 
-**Analyst, Payroll and Benefits Operations, CPP Investments (July 2021 - June 2023)**: Collaborated with cross-functional departments to lead Workday system enhancement projects including vendor system integrations, implementing self-service benefit administration, automated benefit allowance notifications, and expense report data integrity controls. Contributed to policy development by analyzing pension and benefit data and effectively communicating recommendations to stakeholders.
+**Analyst, Payroll and Benefits Operations, CPP Investments (July 2021 - June 2023)**: Collaborated with cross-functional departments to lead Workday system enhancement projects including vendor system integrations, implementing self-service benefit administration, automated benefit allowance notifications, and expense report data integrity controls. Contributed to policy development by analyzing pension and benefits data and effectively communicating recommendations to stakeholders.
 
 
 ## Education

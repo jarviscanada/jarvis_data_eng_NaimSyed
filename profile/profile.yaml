@@ -5,7 +5,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary:  Hi, my name is Naim Syed. I am a Business Systems Analyst at Jarvis Consulting with a strong interest in data analytics and automation. I have a bachelor's in accounting from Toronto Metropolitan University and a diploma in Data Science from Lighthouse Labs. I have four years of experience working in the pension and benefits industry. Over my professional career, I have led projects to automate business processes by integrating ERP systems and building custom RPA solutions. I also enjoyed analyzing financial data to support decision making in policy development. During my personal time, I enjoy playing recreational sports and captaining a Sunday league basketball team. 
+summary:  Hi, my name is Naim Syed. I am a Business Systems Analyst at Jarvis Consulting with a strong interest in data analytics and automation. I have a bachelor's in accounting from Toronto Metropolitan University and a diploma in Data Science from Lighthouse Labs. I have four years of experience working in the pension and benefits industry. Over my professional career, I have led projects to automate business processes by integrating ERP systems and building custom RPA solutions. I also enjoyed analyzing financial data to support decision-making in policy development. During my free time, I enjoy playing recreational sports and captaining a Sunday league basketball team. 
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
@@ -69,10 +69,10 @@ highlighted_projects:
     #URL is optional
     #git_url: ""
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Developed a custom RPA solution using UIPath to automatically generate cost centre breakdowns to allocate employee benefit expens invoices. Collaborated with cross-functional teams using agile project management to effectively manage timelines across planinng, development, and testing phases. The final product helped result in a reduction in manual administration time by 70%.
+    description: Developed a custom RPA solution using UIPath to automatically generate cost center breakdowns to allocate employee benefit expense invoices. I collaborated with cross-functional teams using agile project management to manage timelines across the planning, development, and testing phases. The final product helped result in a reduction in manual administration time by 70%.
   - name: "TMU Group RRSP Restructuring Project"
     #git_url:
-    description: Led a project to improve employee participation in the Group RRSP valued at >$17 million. I analyzed data on 50+ funds offered by TMU and established a risk profile based on the employee demographics and relevant contribution trends. I then finalized 20 top performing funds to recommend and presented my findings to key stakeholders with positive reception and moved forward with implementation. 
+    description: Led a project to improve employee participation in the Group RRSP valued at >$17 million. I analyzed data on 50+ funds offered by TMU and established a risk profile based on employee demographics and relevant contribution trends. I then finalized 20 top-performing funds to recommend and presented my findings to key stakeholders with a positive reception and moved forward with implementation. 
 
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
@@ -83,11 +83,11 @@ professional_experience:
     company: "Jarvis"
     duration: "September 2024 - present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Worked on various projects using relevant technologies such as Linux/Bash, SQL, Java, Data Analytics with Python, and Docker. Collaborated with team using Agile project management methodologies to achieve project goals."
+    description: "Worked on various projects using relevant technologies such as Linux/Bash, SQL, Java, Data Analytics with Python, and Docker. I collaborated with team members using Agile project management methodologies to achieve project goals."
   - title: "Analyst, Payroll and Benefits Operations"
     company: "CPP Investments"
     duration: "July 2021 - June 2023"
-    description: "Collaborated with cross-functional departments to lead Workday system enhancement projects including vendor system integrations, implementing self-service benefit administration, automated benefit allowance notifications, and expense report data integrity controls. Contributed to policy development by analyzing pension and benefit data and effectively communicating recommendations to stakeholders."
+    description: "Collaborated with cross-functional departments to lead Workday system enhancement projects including vendor system integrations, implementing self-service benefit administration, automated benefit allowance notifications, and expense report data integrity controls. Contributed to policy development by analyzing pension and benefits data and effectively communicating recommendations to stakeholders."
 
 #List of edcuation
 education: 
