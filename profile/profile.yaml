@@ -113,11 +113,11 @@ others:
     #list of items
     bullets:
       - "Lighthouse Labs Diploma in Data Science (2024)"
-  - title: "Awards"
-    bullets:
-      - "Winner"
-  - title: "Activities/Hobbies"
-    bullets:
-      - "Basketball player"
-      - "Competitive gaming"
-      - "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+  # - title: "Awards"
+  #  bullets:
+  #    - "Winner"
+  # - title: "Activities/Hobbies"
+  #  bullets:
+  #    - "Basketball player"
+  #    - "Competitive gaming"
+  #    - "Volunteer, ABC Food bank: Ut enim ad minim veniam"

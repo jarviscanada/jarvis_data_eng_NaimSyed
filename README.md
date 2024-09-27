@@ -37,7 +37,3 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](http
 
 ## Miscellaneous
 - Lighthouse Labs Diploma in Data Science (2024)
-- Winner
-- Basketball player
-- Competitive gaming
-- Volunteer, ABC Food bank: Ut enim ad minim veniam
