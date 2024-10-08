@@ -8,10 +8,10 @@
       "school_name": "Toronto Metropolitan University"
     }
   ],
-  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_demo",
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_NaimSyed",
   "highlighted_projects": [
     {
-      "description": "Developed a custom RPA solution using UIPath to automatically generate cost center breakdowns to allocate employee benefit expense invoices. I collaborated with cross-functional teams using agile project management to manage timelines across the planning, development, and testing phases. The final product helped result in a reduction in manual administration time by 70%.",
+      "description": "Developed a custom RPA solution using UIPath to automatically generate cost center breakdowns to allocate employee benefit expense invoices. I collaborated with cross-functional teams using agile to manage timelines across the planning, development, and testing phases. The final product helped result in a reduction in manual administration time by 70%.",
       "name": "UIPath Invoice Processor"
     },
     {
@@ -21,7 +21,7 @@
   ],
   "jarvis_projects": [
     {
-      "description": "Developed a monitoring agent that retrieves hardware specifications and usage data for Linux machines to support resource planning. Collected data using Linux Shell scripts utilizing regex and bash commands to filter and parse through results. Stored data by leveraging a PostgreSQL database in a docker container. Automated scripts using crontab commands to provide real-time data.",
+      "description": "Developed a monitoring agent that retrieves hardware specifications and usage data for Linux machines to support resource planning. Collected data using Linux shell scripts utilizing regex and bash commands to filter and parse through results. Stored data by leveraging a PostgreSQL database in a docker container. Automated scripts using cron commands to provide real-time data.",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
     }
@@ -30,7 +30,10 @@
   "others": [
     {
       "bullets": [
-        "Lighthouse Labs Diploma in Data Science (2024)"
+        "Lighthouse Labs Diploma in Data Science (2024)",
+        "Tutor",
+        "Guitar Player",
+        "Recreational Basketball/Soccer Player"
       ],
       "title": "Certificates"
     }
@@ -38,7 +41,7 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Worked on various projects using relevant technologies such as Linux/Bash, SQL, Java, Data Analytics with Python, and Docker. I collaborated with team members using Agile project management methodologies to achieve project goals.",
+      "description": "Worked on various projects using relevant technologies such as Linux/Bash, SQL, Java, Data Analytics with Python, and Docker. I collaborated with team members using Agile to achieve project goals.",
       "duration": "September 2024 - present",
       "title": "Business Systems Analyst"
     },
@@ -47,21 +50,29 @@
       "description": "Collaborated with cross-functional departments to lead Workday system enhancement projects including vendor system integrations, implementing self-service benefit administration, automated benefit allowance notifications, and expense report data integrity controls. Contributed to policy development by analyzing pension and benefits data and effectively communicating recommendations to stakeholders.",
       "duration": "July 2021 - June 2023",
       "title": "Analyst, Payroll and Benefits Operations"
+    },
+    {
+      "company": "Toronto Metropolitan University",
+      "description": "Managed pension and benefits administration for over 1000 employees. Led initiatives to improve employee partication in Group RRSP programs by analyzing contribution data. Managed tracking and distribution of retirement packages for over 100 retirees for an incentive program, ensuring smooth retirement transitions. Developed internal reports to streamline pension buyback calculations.",
+      "duration": "May 2019 - June 2021",
+      "title": "Pension and Benefits Administrator"
     }
   ],
   "skills": {
     "competent": [
-      "Git",
+      "PowerBI/Tableau",
       "Project Management",
       "Financial Analysis",
+      "Excel (Pivot Tables)",
       "Docker",
-      "PowerBI/Tableau"
+      "Git"
     ],
     "familiar": [
       "Java",
       "HTML/CSS",
       "Google Cloud Platform",
-      "Jira",
+      "Jira/Confluence",
+      "UIPath (RPA)",
       "Machine Learning"
     ],
     "proficient": [
@@ -72,5 +83,5 @@
       "Agile/Scrum"
     ]
   },
-  "summary": "Hi, my name is Naim Syed. I am a Business Systems Analyst at Jarvis Consulting with a strong interest in data analytics and automation. I have a bachelor's in accounting from Toronto Metropolitan University and a diploma in Data Science from Lighthouse Labs. I have four years of experience working in the pension and benefits industry. Over my professional career, I have led projects to automate business processes by integrating ERP systems and building custom RPA solutions. I also enjoyed analyzing financial data to support decision-making in policy development. During my free time, I enjoy playing recreational sports and captaining a Sunday league basketball team."
+  "summary": "I am a Business Systems Analyst at Jarvis Consulting with a strong interest in data analytics and automation. I have a bachelor's in accounting from Toronto Metropolitan University and a certificate in Data Science from Lighthouse Labs. I have four years of experience working in the pension and benefits industry where I have led projects to automate business processes by integrating ERP systems and building custom RPA solutions. I also supported decision-making in policy development by analyzing financial. During my free time, I enjoy playing recreational sports and captaining a Sunday league basketball team."
 }
