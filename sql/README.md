@@ -1,5 +1,5 @@
 # Introduction
-This is a project to demonstrate basic knowledge of CRUD operations using SQL. 
+This is a project to demonstrate basic knowledge of CRUD operations using SQL such as table creation, joins, aggregation, etc. Implementation consisted of 30 query exercises from pgexercises which provided a platform to write and test queries for validation. The readme includes links and solutions for the exercises in this project.  
 
 
 # SQL Queries
