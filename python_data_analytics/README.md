@@ -10,7 +10,7 @@ The IT team provided a dataset of transactional data that could be loaded into a
 
 ## Data Analytics and Wrangling
 
-An analysis on the LGS transactions between 2009 and 2011 can be found at: [retail data analysis notebook][.\python_data_wrangling\retail_data_analytics_wrangling.ipynb] 
+An analysis on the LGS transactions between 2009 and 2011 can be found at: [retail data analysis notebook](./python_data_wrangling/retail_data_analytics_wrangling.ipynb) 
 
 Using the monthly sales and orders diagrams, we can conclude that the holiday season is where LGS receives their highest sales as shown by the spikes in sales and placed orders around October and November. Due to the nature of a gift shops business, it will be significantly harder to reel in customers during non-holiday periods and developing a promotion during this time will not bring the best results. Knowing this information, the LGS marketing team can plan promotions to be best performing in implemented during the holiday season.  
 
