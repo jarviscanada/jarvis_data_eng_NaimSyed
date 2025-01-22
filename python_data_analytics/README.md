@@ -1,7 +1,7 @@
 # Introduction
 This proof of concept project helps demonstrate how to utilize data analytics tools to help an online gift shop (London Gift Shop) analyze their customer behaviour. The London Gift Shop (LGS) marketing team will use the analytics to develop targeted marketing strategies such as emails, events, targeted promotions, etc. The technologies used in this project included a data warehouse running on a docker container to store transaction data provided from the LGS team, Jupyter Notebooks to run Python code, and python libraries (pandas, numpy, matplotlib) to analyze transaction data.
 
-# Implementaion
+# Implementation
 ## Project Architecture
 The LGS IT team manages a web application which has a front-end consisting of a content delivery network that manages images, HTML, and javascript files in an azure blob. The back end consists of APIs that perform microservices managing clusters of containers storing transactional data in an Azure SQL server database. 
 The IT team provided a dataset of transactional data that could be loaded into a PostgreSQL after performing ETL processes such as removing customer information. Analytics was performed using python on a Jupyter Notebook. 
