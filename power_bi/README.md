@@ -2,7 +2,7 @@
 
 This project demonstrates how to build dynamic dashboards using PowerBI to analyze large datasets and support a business's decision making. The implementation of these dashboards leveraged tools such as PowerQuery to perform data transformation as a part of ETL operations and DAX to create dashboard measures. 3 dashboards were made using API's or excel files as data sources.   
 
-## [Beverages Dashboard] (./beverage_dashboard/Coca-Cola_Sales_Dashboard.pbix)
+## [Beverages Dashboard](./beverage_dashboard/Coca-Cola_Sales_Dashboard.pbix)
 
 ![Beverages Dashboard](assets/beverage_dashboard.jpg)
 This dashboard summarizes the sales of beverage brands under Coca-Cola for the 2022 fiscal period. Financial data was collected in an excel workboard and loaded into PowerBI using PowerQuery to convert datatypes and add measures. 
