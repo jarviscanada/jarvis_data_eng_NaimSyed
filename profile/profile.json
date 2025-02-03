@@ -24,6 +24,21 @@
       "description": "Developed a monitoring agent that retrieves hardware specifications and usage data for Linux machines to support resource planning. Collected data using Linux shell scripts utilizing regex and bash commands to filter and parse through results. Stored data by leveraging a PostgreSQL database in a docker container. Automated scripts using cron commands to provide real-time data.",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
+    },
+    {
+      "description": "Demonstrated basic knowledge of CRUD operations using SQL such as table creations, joins, aggregations to implement 30 queries that satisfy the requirements provided by pgexercises.",
+      "git_url": "/rdmbs_sql",
+      "name": "RDBMS and SQL Foundations"
+    },
+    {
+      "description": "Developed a proof of concept project that supports an online gift shop (London Gift Shop) marketing team to analyze their customer behaviour and develop targeted marketing strategies. Implemented data analysis technique using Python (pandas, numpy, matplotlib) to analyze transaction data stored on datawarehouses running on docker containers.",
+      "git_url": "/python_data_anlytics",
+      "name": "Python Data Analytics"
+    },
+    {
+      "description": "Produced dynamic dashboards using PoweBI to analyze large datasets and support business decision making for beverage companies, data professional research, and stock market industries. Leveraged PowerQuery to perform data transformation during ETL operations and DAX to create dashboard measures. Collected data using API queries or excel files as data sources.",
+      "git_url": "/power_bi",
+      "name": "PowerBI Analytics"
     }
   ],
   "name": "Naim Syed",
