@@ -1,6 +1,6 @@
 # Naim Syed . Jarvis Consulting
 
-I am a Business Systems Analyst at Jarvis Consulting with a strong interest in data analytics and automation. I have a bachelor's in accounting from Toronto Metropolitan University and a certificate in Data Science from Lighthouse Labs. I have four years of experience working in the pension and benefits industry where I have led projects to automate business processes by integrating ERP systems and building custom RPA solutions. I also supported decision-making in policy development by analyzing financial. During my free time, I enjoy playing recreational sports and captaining a Sunday league basketball team.
+I am a Business Systems Analyst at Jarvis Consulting with a strong interest in data analytics and automation. I have a bachelor's in accounting from Toronto Metropolitan University and a certificate in Data Science from Lighthouse Labs. I have four years of experience working in the pension and benefits industry where I have led projects to automate business processes by integrating ERP systems and building custom RPA solutions. I also supported decision-making in policy development by analyzing financial data. During my free time, I enjoy playing recreational sports and captaining a Sunday league basketball team.
 
 ## Skills
 
